@@ -13,4 +13,4 @@ SSD Mobilenet v1
 <h2>Dataset</h2>
 COCO dataset
 
-![Screenshot](Screenshot 2021-03-30 at 11.01.20 AM.png)
+![Screenshot](https://github.com/samjaswanth/counting_cars_tensorflow2.x_api/blob/main/Screenshot%202021-03-30%20at%2011.01.20%20AM.png)
