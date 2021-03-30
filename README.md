@@ -5,3 +5,11 @@
 <h2>Links</h2>
 
 [Tensorflow2.x  Api](https://github.com/tensorflow/models).
+
+
+<h2>Model used </h2>
+SSD Mobilenet v1
+
+<h2>Dataset</h2>
+COCO dataset
+
