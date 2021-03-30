@@ -13,3 +13,4 @@ SSD Mobilenet v1
 <h2>Dataset</h2>
 COCO dataset
 
+![Screenshot](Screenshot 2021-03-30 at 11.01.20 AM.png)
